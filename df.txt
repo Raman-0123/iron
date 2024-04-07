@@ -1,5 +1,15 @@
 
 dsfdsfsfsdadadsd
 
+<<<<<<< HEAD
 aasdas
 sadasda
+=======
+
+
+dsdsd
+s
+d
+sds
+d
+>>>>>>> 2c6e4bf1fff7d30b01eabea7c9e2ca5f675a87cf
